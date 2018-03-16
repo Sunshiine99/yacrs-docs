@@ -16,9 +16,3 @@ An overview of the project directory structure is shown below
     └── /config
         ├── Deployment Specific Images
         └── config.json: Deployment specific config
-
-## Application Flow
- 1. main.js is run by electron. This creates a new window of app.html.
- 2. main.js then sends the required configuration data and url to this new window.
- 3. That page is loaded and the user can navigate the app like they were in a web browser.
- 4. The web application detects that this is the desktop app
