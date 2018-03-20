@@ -1,4 +1,4 @@
-#YACRS release notes
+# YACRS release notes
 Version 2.0.0
 
 This document introduces the new features in YACRS, some features we have left out and some well known bugs
