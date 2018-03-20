@@ -11,6 +11,7 @@ This document introduces the new features in YACRS, some features we have left o
 
 * Removed features
     * Responses through SMS
+    * Class discussion
     * Ability to reorder questions
     * Micro blogging mode
     * Allow questions for the teacher?
@@ -19,3 +20,9 @@ This document introduces the new features in YACRS, some features we have left o
     * Export session as a CSV file
     * Ability to select which questions to export and what features to include
     * Ability to display all questions in the session on a current date
+    * Multiple course identifiers
+
+* Known bugs
+    * Special characters are removed from labels in the bar chart
+    * Long labels in bar charts are not displayed properly
+    * Live view always on top does not work on Mac OS
