@@ -5,16 +5,21 @@ This document introduces the new features in YACRS, some features we have left o
 
 * New features
     * Pie charts for multiple choice and multiple response question responses
+    * Long text questions
+    * Multiple Response Questions (the student can select more than one answer)
     * Textual analysis that shows trends and responses that are similar (One minute paper)
     * A bar chart that shows number of responses in each cluster
     * Export session as an Excel Spreadsheet
+    * Help section for both students and lecturers
+    * Download section that includes download links for Windows, Linux and Mac OS
+    * When the lecturer switches question, all student view are automatically updated
 
 * Removed features
     * Responses through SMS
     * Class discussion
     * Ability to reorder questions
     * Micro blogging mode
-    * Allow questions for the teacher?
+    * Allow questions for the teacher
     * Custom scoring
     * LTI consumers
     * Export session as a CSV file
