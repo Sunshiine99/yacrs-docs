@@ -1,12 +1,6 @@
 MIT License
 
-Copyright (c) 2018
-
-* Chase Condon
-* David Southgate
-* Michael McGinley
-* Nor Albagdadi
-* Hristo Ivanov
+Copyright (c) 2018 Nor Albagdadi, Chase Condon, Hristo Ivanov, Michael McGinley and David Southgate
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
