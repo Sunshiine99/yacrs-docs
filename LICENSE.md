@@ -1,4 +1,5 @@
-MIT License
+The MIT License (MIT)
+=====================
 
 Copyright (c) 2018 Nor Albagdadi, Chase Condon, Hristo Ivanov, Michael McGinley and David Southgate
 
